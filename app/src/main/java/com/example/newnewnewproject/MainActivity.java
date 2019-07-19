@@ -25,17 +25,16 @@ View view ;
     import java.awt.Graphics2D;
     import java.awt.image.BufferedImage;
 
+
         public class ScrollingBackground extends Canvas executes Runnable {
 
-            //Two Frameworks of the background image to scroll
+            //One copy of the background image to scroll
             private Background backOne;
-            private Background backTwo;
 
             privat bufferedImage back;
 
             public ScrollingBackground(){
-                backOne = new Background();
-                backTwo = new Background(backOne.getImageWidth(), 0);
+                backOne = new Background(backOne.getImageWidth(), 0);
 
         view= this.getWindow().getDecorView();
                 view.setBackgroundResource(R.color.black);
