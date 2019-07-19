@@ -11,6 +11,10 @@ View view ;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // {dancing_script.ttf}
+        // {lobster.tttf}
+        // {typo_graphica.ttf}
+
    // {dancing_script.ttf}
    // {lobster.tttf}
    // {typo_graphica.otf}
