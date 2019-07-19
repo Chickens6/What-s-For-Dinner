@@ -17,23 +17,17 @@
 
     <TextView
         android:id="@+id/textView"
-<<<<<<< HEAD
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="What's For Dinner?"
         tools:layout_editor_absoluteX="176dp"
         tools:layout_editor_absoluteY="311dp" />
-=======
+
         android:layout_width="123dp"
         android:layout_height="111dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
->>>>>>> 768cde53cc77f5e24f998040674c8e7875fef364
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
-
-
-
 

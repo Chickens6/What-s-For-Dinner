@@ -1,11 +1,11 @@
 package com.example.newnewnewproject;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-
+View view ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,3 +32,9 @@ public class MainActivity extends AppCompatActivity {
             public ScrollingBackground(){
                 backOne = new Background();
                 backTwo = new Background(backOne.getImageWidth(), 0);
+
+        view= this.getWindow().getDecorView();
+                view.setBackgroundResource(R.color.black);
+    }
+}
+
