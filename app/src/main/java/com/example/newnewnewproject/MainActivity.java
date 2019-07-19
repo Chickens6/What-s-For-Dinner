@@ -1,11 +1,11 @@
 package com.example.newnewnewproject;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+import android.view.View;
 
 public class MainActivity extends AppCompatActivity {
-
+View view ;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -14,3 +14,8 @@ public class MainActivity extends AppCompatActivity {
         // {dancing_script.ttf}
         // {lobster.tttf}
         // {typo_graphica.ttf}
+
+        view= this.getWindow().getDecorView();
+                view.setBackgroundResource(R.color.black);
+    }
+}
