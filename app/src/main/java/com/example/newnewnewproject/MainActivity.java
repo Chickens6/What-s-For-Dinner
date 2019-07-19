@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-   // {dancing_script.ttf}
-   // {lobster.tttf}
-   // {typo_graphica.otf}
+        // {dancing_script.ttf}
+        // {lobster.tttf}
+        // {typo_graphica.ttf}
