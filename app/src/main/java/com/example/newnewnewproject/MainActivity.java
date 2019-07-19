@@ -1,6 +1,7 @@
 package com.example.newnewnewproject;
 
 import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.view.View;
 
@@ -11,7 +12,9 @@ View view ;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         view= this.getWindow().getDecorView();
                 view.setBackgroundResource(R.color.black);
     }
 }
+
