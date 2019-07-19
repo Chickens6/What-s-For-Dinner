@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <font-family xmlns:android="http://schemas.android.com/apk/res/android">
 <font
+ HEAD:app/src/main/res/font/whatsfordinna.xml
     android:fontStyle="normal"
     android:fontWeight="400"/>
 
 
 </font-family>
+
+
+    android:fontStyle= "normal"
+    android:fontWeight= "400"
+    android:font= "font/lobster_regular"
+
+
