@@ -6,28 +6,15 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/floatingActionButton"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:clickable="true"
-        app:srcCompat="@android:drawable/arrow_up_float"
-        tools:layout_editor_absoluteX="339dp"
-        tools:layout_editor_absoluteY="649dp" />
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="What's For Dinner?"
-        tools:layout_editor_absoluteX="176dp"
-        tools:layout_editor_absoluteY="311dp" />
-
-        android:layout_width="123dp"
-        android:layout_height="111dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_height="87dp"
+        android:text="@string/what_s_for_dinner"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="243dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
