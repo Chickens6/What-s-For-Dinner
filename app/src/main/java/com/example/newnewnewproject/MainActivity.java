@@ -1,9 +1,9 @@
 package com.example.newnewnewproject;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 View view ;
@@ -16,29 +16,12 @@ View view ;
         // {lobster.tttf}
         // {typo_graphica.ttf}
 
-   // {dancing_script.ttf}
-   // {lobster.tttf}
-   // {typo_graphica.otf}
-
-    import java.awt.Canvas;
-    import java.awt.Color;
-    import java.awt.Graphics;
-    import java.awt.Graphics2D;
-    import java.awt.image.BufferedImage;
+        // {dancing_script.ttf}
+        // {lobster.tttf}
+        // {typo_graphica.otf}
 
 
-        public class ScrollingBackground extends Canvas executes Runnable {
 
-            //One copy of the background image to scroll
-            private Background backOne;
-
-            privat bufferedImage back;
-
-            public ScrollingBackground(){
-                backOne = new Background(backOne.getImageWidth(), 0);
-
-        view= this.getWindow().getDecorView();
-                view.setBackgroundResource(R.color.black);
-    }
-}
+            }
+        }
 
