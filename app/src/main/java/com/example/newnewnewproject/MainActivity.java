@@ -1,6 +1,7 @@
 package com.example.newnewnewproject;
 
 import android.os.Bundle;
+import android.view.MotionEvent;
 import android.view.View;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,6 +12,8 @@ View view ;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
 
         // {dancing_script.ttf}
         // {lobster.tttf}
@@ -23,5 +26,10 @@ View view ;
 
 
             }
-        }
+
+    @Override
+    public boolean onTouchEvent(MotionEvent event) {
+        return super.onTouchEvent(event);
+    }
+}
 
