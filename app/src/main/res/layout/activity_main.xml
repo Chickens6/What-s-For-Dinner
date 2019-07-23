@@ -4,10 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".MainActivity">
-
-<<<<<<< HEAD
-=======
 
     <TextView
         android:id="@+id/textView"
@@ -22,6 +20,5 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"/>
 
->>>>>>> d0bf3547d9106e3d45b9986bd4ca5159d8a486ed
 </androidx.constraintlayout.widget.ConstraintLayout>
 
