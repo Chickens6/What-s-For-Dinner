@@ -7,7 +7,8 @@ import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-View view ;
+    View view;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -32,4 +33,13 @@ View view ;
         return super.onTouchEvent(event);
     }
 }
+
+
+
+        view= this.getWindow().getDecorView();
+                view.setBackgroundResource(R.color.black);
+
+        view = this.getWindow().getDecorView();
+        view.setBackgroundResource(R.color.black);
+        
 

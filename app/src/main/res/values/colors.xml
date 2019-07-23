@@ -4,11 +4,31 @@
     <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#000000</color>
     <color name="black">#000000</color>
-    <color name="orange">#00ff00</color>
+    <color name="green">#00ff00</color>
     <color name="yellow">#ffff00</color>
+    <color name="grapefruit">#cd00cd</color>
+    <color name="cyan">#3676e8</color>
+    <color name="orange">#ff8500</color>
+    <color name="red">#ff0000</color>
+    <color name="pink">#ff69b4</color>
+    <color name="lime">#a7ff22</color>
+    <color name="sky">#113dff</color>
+    <color name="lilac">#a16eff</color>
+    <color name="cherry">#ff4151</color>
+    <color name="mint">#67ff50</color>
+    <color name="sunny">#fff045</color>
+    <color name="grape">#7802ff</color>
+    <color name="bright">#55fff1</color>
+    <color name="peach">#ff845c</color>
+    <color name="bubblegum">#ffb6c1</color>
+    <color name="forest">#296c02</color>
+    <color name="ocean">#3503cf</color>
     <color name="purple">#e53fe5</color>
     <color name="blue">#3676e8</color>
 
+<<<<<<< HEAD
+    
 
-
+=======
+>>>>>>> d0bf3547d9106e3d45b9986bd4ca5159d8a486ed
 </resources>
