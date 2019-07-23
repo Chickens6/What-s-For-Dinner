@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<font-family xmlns:android="http://schemas.android.com/apk/res/android">
+<f
+=======
 
 
 <font-family xmlns:android="http://schemas.android.com/apk/res/android"
@@ -11,5 +15,6 @@
 
 
 
+>>>>>>> d0bf3547d9106e3d45b9986bd4ca5159d8a486ed
 
 

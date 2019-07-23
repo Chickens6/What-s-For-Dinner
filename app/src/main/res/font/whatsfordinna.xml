@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
+<font-family></font-family>
+=======
 <font-family xmlns:android="http://schemas.android.com/apk/res/android">
 <font
     android:fontStyle="normal"
@@ -6,3 +9,4 @@
 
 
 </font-family>
+>>>>>>> d0bf3547d9106e3d45b9986bd4ca5159d8a486ed
