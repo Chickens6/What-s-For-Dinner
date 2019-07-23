@@ -6,22 +6,15 @@ import android.view.View;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
-View view ;
+    View view;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // {dancing_script.ttf}
-        // {lobster.tttf}
-        // {typo_graphica.ttf}
-
-        // {dancing_script.ttf}
-        // {lobster.tttf}
-        // {typo_graphica.otf}
-
-
-
-            }
-        }
-
+        view = this.getWindow().getDecorView();
+        view.setBackgroundResource(R.color.black);
+        
+    }
+}
