@@ -17,5 +17,20 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:layout_editor_absoluteY="243dp" />
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="395dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="29dp"
+        android:text="Click to Continue"
+        app:layout_constraintBottom_toBottomOf="parent"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <androidx.constraintlayout.widget.Barrier
+        android:id="@+id/barrier"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:barrierDirection="top" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 
