@@ -6,8 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-<<<<<<< HEAD
-=======
 
     <TextView
         android:id="@+id/textView"
@@ -16,16 +14,12 @@
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
         android:text="What's For Dinner?"
-<<<<<<< HEAD
-        app:layout_constraintTop_toTopof="parent "
-=======
->>>>>>> 0f48e31087b016e50b4f3737e5ccc254d6fa9697
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
->>>>>>> d0bf3547d9106e3d45b9986bd4ca5159d8a486ed
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 
