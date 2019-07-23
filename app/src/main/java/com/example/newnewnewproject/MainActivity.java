@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
         // {dancing_script.ttf}
         // {lobster.tttf}
         // {typo_graphica.ttf}
@@ -43,3 +44,12 @@ public class MainActivity extends AppCompatActivity {
         view.setBackgroundResource(R.color.black);
         
 
+=======
+        view= this.getWindow().getDecorView();
+                view.setBackgroundResource(R.color.black);
+
+
+
+    }
+}
+>>>>>>> 91c8505200c3f057548602137b841e6dae5469d0
