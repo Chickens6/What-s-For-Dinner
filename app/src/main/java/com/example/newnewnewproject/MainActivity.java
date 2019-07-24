@@ -41,10 +41,7 @@ public class MainActivity extends AppCompatActivity {
                 view.setBackgroundResource(R.color.black);
 
         view = this.getWindow().getDecorView();
-        view.setBackgroundResource(R.color.black);
-        
-
-=======
+        view.setBackgroundResource(R.color.black)
         view= this.getWindow().getDecorView();
                 view.setBackgroundResource(R.color.black);
 
@@ -52,4 +49,4 @@ public class MainActivity extends AppCompatActivity {
 
     }
 }
->>>>>>> 91c8505200c3f057548602137b841e6dae5469d0
+>>>>>>> 91c8505200c3f057548602137b841e6dae
