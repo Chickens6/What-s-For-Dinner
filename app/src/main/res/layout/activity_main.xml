@@ -1,28 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".MainActivity">
+<<<<<<< HEAD
 
 
 
+=======
+    
+    <TextView
+>>>>>>> 9370bb9ba107d45f7015e2a04e8cbd94896dfec9
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="24dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
+<<<<<<< HEAD
         android:text="What's For Dinner?
 
         app:layout_constraintTop_toTopof="parent"
 
+=======
+        android:text="What's For Dinner?"
+        app:layout_constraintTop_toTopof="parent"
+>>>>>>> 9370bb9ba107d45f7015e2a04e8cbd94896dfec9
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 9370bb9ba107d45f7015e2a04e8cbd94896dfec9
 </androidx.constraintlayout.widget.ConstraintLayout>
 
