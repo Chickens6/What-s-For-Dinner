@@ -7,29 +7,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".MainActivity">
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 774b002013b41b973c1282b8a6fd2ed53d7e4a77
-    <TextView
+
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="24dp"
         android:layout_marginEnd="8dp"
         android:layout_marginRight="8dp"
-        android:text="What's For Dinner?"
-<<<<<<< HEAD
-=======
+        android:text="What's For Dinner?
+
         app:layout_constraintTop_toTopof="parent"
->>>>>>> 774b002013b41b973c1282b8a6fd2ed53d7e4a77
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
-        app:layout_constraintStart_toStartOf="parent"/>
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 774b002013b41b973c1282b8a6fd2ed53d7e4a77
+
 </androidx.constraintlayout.widget.ConstraintLayout>
 
