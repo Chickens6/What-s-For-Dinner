@@ -35,12 +35,12 @@ public class MainActivity extends AppCompatActivity {
                     x2 = event.getX();
                     y2 = event.getY();
                     if (x1 < x2) {
-                        Intent i = new Intent(MainActivity.this, SwipeLeft.class);
+                         Intent i = new Intent(MainActivity.this, SwipeLeft.class);
                         startActivity(i);
-                    } //else if (x1 > x2) {
-                    //    Intent i = new Intent(MainActivity.this, SwipeRight.class);
-                    //    startActivity(i);
-                    //}
+                    } else if (x1 > x2) {
+                        Intent i = new Intent(MainActivity.this, SwipeRight.class);
+                       startActivity(i);
+                    }
                     break;
             }
             return false;
