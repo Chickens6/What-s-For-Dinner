@@ -15,15 +15,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        view = this.getWindow().getDecorView();
+        view.setBackgroundResource(R.color.black);
         view = this.getWindow().getDecorView();
         view.setBackgroundResource(R.color.black);
 
 
-        view = this.getWindow().getDecorView();
-        view.setBackgroundResource(R.color.black);
-
-    }
 }
 
     @Override
@@ -48,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                     //}
                     break;
             }
-            return false;
+         
     }
 
 
