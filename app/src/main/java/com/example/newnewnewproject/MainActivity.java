@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         view = this.getWindow().getDecorView();
         view.setBackgroundResource(R.color.black);
 
+
     }
 
     @Override
@@ -43,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
                     }
                     break;
             }
-            return false;
+         
     }
 
 
