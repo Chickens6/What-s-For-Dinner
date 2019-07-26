@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     View view;
-    float x1,x2,y1,y2;
+    float x1, x2, y1, y2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,24 +27,24 @@ public class MainActivity extends AppCompatActivity {
         //return super.onTouchEvent(event);
 
         //public boolean onTouchEvent (MotionEvent touchEvent){
-            switch (event.getAction()) {
-                case MotionEvent.ACTION_DOWN:
-                    x1 = event.getX();
-                    y1 = event.getY();
-                    break;
-                case MotionEvent.ACTION_UP:
-                    x2 = event.getX();
-                    y2 = event.getY();
-                    if (x1 < x2) {
-                        Intent i = new Intent(MainActivity.this, SwipeLeft.class);
-                        startActivity(i);
-                    } //else if (x1 > x2) {
-                    //    Intent i = new Intent(MainActivity.this, SwipeRight.class);
-                    //    startActivity(i);
-                    //}
-                    break;
-            }
-         
+        switch (event.getAction()) {
+            case MotionEvent.ACTION_DOWN:
+                x1 = event.getX();
+                y1 = event.getY();
+                break;
+            case MotionEvent.ACTION_UP:
+                x2 = event.getX();
+                y2 = event.getY();
+                if (x1 < x2) {
+                    Intent i = new Intent(MainActivity.this, SwipeLeft.class);
+                    startActivity(i);
+                } //else if (x1 > x2) {
+                //    Intent i = new Intent(MainActivity.this, SwipeRight.class);
+                //    startActivity(i);
+                //}
+                break;
+        }
+return false;
     }
 
 
