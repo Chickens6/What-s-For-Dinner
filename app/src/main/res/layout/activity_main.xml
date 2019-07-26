@@ -8,8 +8,6 @@
 
 
 
-<<<<<<< HEAD
-
         <TextView
             android:id="@+id/textView"
             android:layout_width="273dp"
@@ -32,30 +30,4 @@
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.37" />
         
-</androidx.constraintlayout.widget.ConstraintLayout>
-=======
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="273dp"
-        android:layout_height="199dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginLeft="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginRight="8dp"
-        android:lineSpacingExtra="8sp"
-        android:text="What's     For Dinner?"
-        android:textAllCaps="true"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="#FFC107"
-        android:textSize="36sp"
-        app:fontFamily="@font/bowlby_one"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.54"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.37" />
->>>>>>> f641a4035a5e076cef7ea9ac98c41c2f5660fb06
-
-
 </androidx.constraintlayout.widget.ConstraintLayout>
