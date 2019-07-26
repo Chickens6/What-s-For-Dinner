@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
         //return super.onTouchEvent(event);
 
         //public boolean onTouchEvent (MotionEvent touchEvent){
-<<<<<<< HEAD
             switch (event.getAction()) {
                 case MotionEvent.ACTION_DOWN:
                     x1 = event.getX();
@@ -46,40 +45,6 @@ public class MainActivity extends AppCompatActivity {
                     }
                     break;
             }return false;
-         
-=======
-        switch (event.getAction()) {
-            case MotionEvent.ACTION_DOWN:
-                x1 = event.getX();
-                y1 = event.getY();
-                break;
-            case MotionEvent.ACTION_UP:
-                x2 = event.getX();
-                y2 = event.getY();
-                if (x1 < x2) {
-                    Intent i = new Intent(MainActivity.this, SwipeLeft.class);
-                    startActivity(i);
-
-                } //else if (x1 > x2) {
-                //    Intent i = new Intent(MainActivity.this, SwipeRight.class);
-                //    startActivity(i);
-                //}
-                break;
-        }
-return false;
->>>>>>> f641a4035a5e076cef7ea9ac98c41c2f5660fb06
-    }
-
-
-                } else if (x1 > x2) {
-                    Intent i = new Intent(MainActivity.this, SwipeRight.class);
-                    startActivity(i);
-                }
-                break;
-        }
-        return false;
-
-
     }
 }
 
