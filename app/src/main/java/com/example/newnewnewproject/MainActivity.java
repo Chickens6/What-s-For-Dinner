@@ -15,7 +15,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        view = this.getWindow().getDecorView();
+        view.setBackgroundResource(R.color.black);
         view = this.getWindow().getDecorView();
         view.setBackgroundResource(R.color.black);
 
@@ -38,6 +39,7 @@ public class MainActivity extends AppCompatActivity {
                 if (x1 < x2) {
                     Intent i = new Intent(MainActivity.this, SwipeLeft.class);
                     startActivity(i);
+
                 } //else if (x1 > x2) {
                 //    Intent i = new Intent(MainActivity.this, SwipeRight.class);
                 //    startActivity(i);
@@ -48,7 +50,16 @@ return false;
     }
 
 
-}
+                } else if (x1 > x2) {
+                    Intent i = new Intent(MainActivity.this, SwipeRight.class);
+                    startActivity(i);
+                }
+                break;
+        }
+        return false;
 
+
+    }
+}
 
 
