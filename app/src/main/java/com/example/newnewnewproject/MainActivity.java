@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
     View view;
-    float x1, x2, y1, y2;
+    float x1,x2,y1,y2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         view.setBackgroundResource(R.color.black);
 
 
-    }
+}
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
@@ -44,8 +44,16 @@ public class MainActivity extends AppCompatActivity {
                        startActivity(i);
                     }
                     break;
+<<<<<<< HEAD
             }return false;
     }
+=======
+            } return false;
+         
+    }
+
+
+>>>>>>> e99ccbb751c8fa2495d41111d96df208fed463b9
 }
 
 
