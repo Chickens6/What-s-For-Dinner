@@ -40,15 +40,6 @@ public class MainActivity extends AppCompatActivity {
                     Intent i = new Intent(MainActivity.this, SwipeLeft.class);
                     startActivity(i);
 
-                } //else if (x1 > x2) {
-                //    Intent i = new Intent(MainActivity.this, SwipeRight.class);
-                //    startActivity(i);
-                //}
-                break;
-        }
-return false;
-    }
-
 
                 } else if (x1 > x2) {
                     Intent i = new Intent(MainActivity.this, SwipeRight.class);
