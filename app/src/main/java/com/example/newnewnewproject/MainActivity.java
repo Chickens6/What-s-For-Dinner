@@ -44,16 +44,13 @@ public class MainActivity extends AppCompatActivity {
                        startActivity(i);
                     }
                     break;
-<<<<<<< HEAD
+
             }return false;
     }
-=======
-            } return false;
-         
-    }
 
 
->>>>>>> e99ccbb751c8fa2495d41111d96df208fed463b9
+
+
 }
 
 
