@@ -8,6 +8,7 @@
 
 
 
+
         <TextView
             android:id="@+id/textView"
             android:layout_width="273dp"
@@ -28,6 +29,7 @@
             app:layout_constraintHorizontal_bias="0.54"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
+<<<<<<< HEAD
             app:layout_constraintVertical_bias="0.37"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
 
@@ -36,3 +38,9 @@
 
 
 
+=======
+            app:layout_constraintVertical_bias="0.37" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+>>>>>>> 9b5d682abcff3a5b49b65dc243ff8456e5da4b20
