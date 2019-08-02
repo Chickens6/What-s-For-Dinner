@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
         //return super.onTouchEvent(event);
 
         //public boolean onTouchEvent (MotionEvent touchEvent){
-
         switch (event.getAction()) {
             case MotionEvent.ACTION_DOWN:
                 x1 = event.getX();
@@ -44,8 +43,8 @@ public class MainActivity extends AppCompatActivity {
                     Intent i = new Intent(MainActivity.this, SwipeRight.class);
                     startActivity(i);
                 }
+                break;
         }
         return false;
-
-
-    }}
+    }
+}

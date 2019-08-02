@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+<<<<<<< HEAD
         <activity android:name=".Another"></activity>
+=======
+        <activity android:name=".SwipeRight2"></activity>
+>>>>>>> 164e5c5306f220f1d7cdf3bbdec089c279fd92bf
         <activity android:name=".Main3Activity" />
         <activity android:name=".Main2Activity" />
         <activity android:name=".SwipeRight" />
