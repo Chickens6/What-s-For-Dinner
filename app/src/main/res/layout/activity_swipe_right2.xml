@@ -15,15 +15,11 @@
         android:layout_marginStart="163dp"
         android:layout_marginLeft="163dp"
         android:layout_marginTop="205dp"
-        android:text="Welcome."
+        android:text="Cute."
         android:textColor="@color/ocean"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="open activity 2"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
