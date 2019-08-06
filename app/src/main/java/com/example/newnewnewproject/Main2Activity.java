@@ -40,7 +40,9 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
     public void onClick(View view){
         int select = view.getId();
 
-        if(select == R.id.button1);
+        if(select == R.id.button1){
+            
+        }
         if(select == R.id.button2);
         if(select == R.id.button3);
         if(select == R.id.button4);
