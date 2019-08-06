@@ -14,7 +14,7 @@
         android:layout_marginStart="163dp"
         android:layout_marginLeft="163dp"
         android:layout_marginTop="205dp"
-        android:text="Welcome."
+        android:text="Welcome to our wonderful app."
         android:textColor="@color/ocean"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
