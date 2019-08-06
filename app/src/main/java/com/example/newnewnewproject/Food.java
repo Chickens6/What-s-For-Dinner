@@ -1,6 +1,8 @@
 package com.example.newnewnewproject;
 
 public class Food {
+    public static String typeFood;
+
     //to get food -> Food.french[number-1] = {"name","url"}
     //Food.french[number-1][0]
     public static String[][] french = {{"Ratatouille Recipe", "https://www.thespruceeats.com/french-vegetarian-recipes-1375858"},
