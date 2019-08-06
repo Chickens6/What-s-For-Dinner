@@ -10,13 +10,12 @@
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
-        android:layout_height="21dp"
-        android:layout_marginStart="163dp"
-        android:layout_marginLeft="163dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="205dp"
-        android:text="Welcome to our wonderful app."
+        android:text="Welcome to the app that makes you stop questioning what to eat."
         android:textColor="#FFC107"
-        app:layout_constraintStart_toStartOf="parent"
+        android:gravity="center_horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
