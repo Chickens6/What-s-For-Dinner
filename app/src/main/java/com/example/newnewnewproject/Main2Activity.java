@@ -52,7 +52,7 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
             Food.typeFood = "Chinese";
         else if(select == R.id.button6)
             Food.typeFood = "Greek";
-        Intent intent = new Intent(this,Main3Activity.class);
+        Intent intent = new Intent(this,Another.class);
         startActivity(intent);
     }
 
