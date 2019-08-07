@@ -43,7 +43,7 @@ public class Food {
             {"Eggplant and Bell Pepper Caponata","https://www.onegreenplanet.org/vegan-recipe/eggplant-and-bell-pepper-caponata/"},
             {"Veggie Muffuletta","https://www.onegreenplanet.org/vegan-recipe/veggie-muffuletta/"},
             {"Fave e cicorie","https://oldwayspt.org/recipes/fave-e-cicoria"},
-            {"Spinach and Ricotta Vegan Stuffed Shells ","https://simple-veganista.com/spinach-ricotta-stuffed-shells/#tasty-recipes-13854"};
+            {"Spinach and Ricotta Vegan Stuffed Shells ","https://simple-veganista.com/spinach-ricotta-stuffed-shells/#tasty-recipes-13854"}};
 
     public static String[][] american ={ {"Vegan lentin taco salad","https://theprettybee.com/vegan-lentil-taco-salad/"},
             {"Sweet potato bean burgers","https://veganuary.com/recipes/sweet-potato-bean-burgers-with-maple-dijon-sauce/"},
@@ -56,7 +56,7 @@ public class Food {
             {"Pasta carbonara","https://www.rickiheller.com/2010/05/new-age-vegan-pasta-carbonara/"},
             {"Mushroom ravioli","http://veganyumminess.com/mushroom-ravioli-with-garlic-sun-dried-tomato-cream-sauce/"},
             {"Eggplant bolognese ","http://thecornerkitchenblog.com/eggplant-bolognese/"},
-            {"Vegan nachos","https://mywholefoodlife.com/2014/03/03/super-easy-vegan-nachos/"};
+            {"Vegan nachos","https://mywholefoodlife.com/2014/03/03/super-easy-vegan-nachos/"}};
 
     public static String[][] greek = {{"Anticuchos de pollo","https://www.commonbytes.org/?gclid=CjwKCAjw-ITqBRB7EiwAZ1c5U-EMxkX3QLdjboO--xqX2I9BJo4t9VfmLwkONFrXApUZLyFcstBOChoCmH4QAvD_BwE#!/recipes/65"},
             {"Island pizza-olive","https://www.olivetomato.com/authentic-greek-island-pizza-olive-oil-pizza-lathenia/"},
@@ -69,7 +69,7 @@ public class Food {
             {"Spring rolls","https://www.tasteofhome.com/recipes/spanakopita-spring-rolls/"},
             {"Tomato tart ","https://www.tasteofhome.com/recipes/terrific-tomato-tart/"},
             {"Balck bean burger ","http:///tastybite.com/recipes/tasty-bengal-black-bean-burger-2"},
-            {"Stuffed peppers","http://tastybite.com/recipes/tasty-thai-lime-stuffed-peppers-2/"};
+            {"Stuffed peppers","http://tastybite.com/recipes/tasty-thai-lime-stuffed-peppers-2/"}};
 
     public static String[][] chinnese = {{"Smoky tofu","https://www.connoisseurusveg.com/smoky-tofu-dumplings-with-sweet-chili-dipping-sauce/"},
             {"Shiitake mushroom","https://www.connoisseurusveg.com/vegan-bao-buns/"},
@@ -82,19 +82,10 @@ public class Food {
             {"Sesame noodles","https://omnivorescookbook.com/sesame-noodles/"},
             {"Mandarin orange ","https://veganuary.com/recipes/mandarin-orange-stirfry/"},
             {"Ginger chili ","https://veganuary.com/recipes/ginger-chilli-tofu-steaks/"},
-            {"Tofu and brown rice ","https://www.veganricha.com/2017/01/tofu-brown-rice-noodles-hoisin-sauce.html"};
+            {"Tofu and brown rice ","https://www.veganricha.com/2017/01/tofu-brown-rice-noodles-hoisin-sauce.html"}};
 
 
 
     }
-
-
-
-
-
-
-
-
-}
 
 
