@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="preloaded_fonts" translatable="false">
-
         <item>@font/alfa_slab_one</item>
         <item>@font/baloo</item>
         <item>@font/baloo_da</item>
@@ -9,12 +8,14 @@
         <item>@font/bubblegum_sans</item>
         <item>@font/chango</item>
 
+
         <item>@font/bowlby_one</item>
         <item>@font/chewy</item>
         <item>@font/coiny</item>
         <item>@font/press_start_2p</item>
         <item>@font/salsa</item>
         <item>@font/wendy_one</item>
+
 
     </array>
 </resources>
