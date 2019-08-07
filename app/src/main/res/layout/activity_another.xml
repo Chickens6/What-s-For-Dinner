@@ -25,6 +25,7 @@
                 android:layout_allingParentBottom="true"
                 android:layout_centerHorizontal="true"
                 android:background="@drawable/okay"/>
-    
+
+    </RelativeLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
