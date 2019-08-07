@@ -18,12 +18,13 @@
             android:adjustViewBounds="true"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"/>
+
             <Button android:id="@+id/buttonStart"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_allingParentBottom="true"
                 android:layout_centerHorizontal="true"
-                android:background="@drawable/okay"></Button>
+                android:background="@drawable/okay"/>
 
     </RelativeLayout>
 
