@@ -5,19 +5,18 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000"
-    android:clickable="true"
     tools:context=".SwipeRight">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
-        android:layout_height="21dp"
-        android:layout_marginStart="163dp"
-        android:layout_marginLeft="163dp"
+        android:layout_height="wrap_content"
         android:layout_marginTop="205dp"
-        android:text="Welcome."
-        android:textColor="@color/ocean"
-        app:layout_constraintStart_toStartOf="parent"
+        android:text="Hello, welcome to tha app that will answer the question you always ask yourself. 'What's for Dinner?'
+This app will not only solve the problem, but it will also allow you to diversify your every night meal. All you have to do is pick the genre of food that you want to eat, and then you're ready to go!"
+        android:textColor="#FFC107"
+        android:gravity="center_horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
