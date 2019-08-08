@@ -61,8 +61,11 @@ public class Food {
             {"Medterranean Tomato Tart ","https://veganuary.com/recipes/mediterranean-tomato-tart/"}};
 
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 4d489925b4865cf3b7c5864a681900ce64fa0af5
     public static String[][] CHINESE = {{"Smoky tofu","https://www.connoisseurusveg.com/smoky-tofu-dumplings-with-sweet-chili-dipping-sauce/"},
             {"Shiitake mushroom","https://www.connoisseurusveg.com/vegan-bao-buns/"},
             {"Kung pao","https://www.veganricha.com/2015/01/kung-pao-lentils.html"},
@@ -75,9 +78,24 @@ public class Food {
             {"Mandarin orange ","https://veganuary.com/recipes/mandarin-orange-stirfry/"},
             {"Ginger chili ","https://veganuary.com/recipes/ginger-chilli-tofu-steaks/"},
             {"Tofu and brown rice ","https://www.veganricha.com/2017/01/tofu-brown-rice-noodles-hoisin-sauce.html"}};
+<<<<<<< HEAD
 
 
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+
+
+=======
+=======
+>>>>>>> 4fb7bab3cdf4c7b9780ad0e99d24f6e3886bf8b5
+
+
+>>>>>>> 4d489925b4865cf3b7c5864a681900ce64fa0af5
     public static String[][] GREEK = {{"Anticuchos de pollo","https://www.commonbytes.org/?gclid=CjwKCAjw-ITqBRB7EiwAZ1c5U-EMxkX3QLdjboO--xqX2I9BJo4t9VfmLwkONFrXApUZLyFcstBOChoCmH4QAvD_BwE#!/recipes/65"},
             {"Island pizza-olive","https://www.olivetomato.com/authentic-greek-island-pizza-olive-oil-pizza-lathenia/"},
             {"Chickpea patties ","https://www.olivetomato.com/greek-chickpea-patties-with-thick-tomato-sauce-revithosoutzoukakia/"},
@@ -90,15 +108,19 @@ public class Food {
             {"Tomato tart ","https://www.tasteofhome.com/recipes/terrific-tomato-tart/"},
             {"Balck bean burger ","http:///tastybite.com/recipes/tasty-bengal-black-bean-burger-2"},
             {"Stuffed peppers","http://tastybite.com/recipes/tasty-thai-lime-stuffed-peppers-2/"}};
+>>>>>>> 1a84255599be78e6179ce6685eaa19c3b13f8d0c
 
 
 
     }
 
 
+<<<<<<< HEAD
+=======
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -108,3 +130,6 @@ public class Food {
 
     } 
 
+>>>>>>> 1a84255599be78e6179ce6685eaa19c3b13f8d0c
+=======
+>>>>>>> 4fb7bab3cdf4c7b9780ad0e99d24f6e3886bf8b5
