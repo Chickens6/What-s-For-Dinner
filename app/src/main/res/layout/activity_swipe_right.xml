@@ -11,8 +11,8 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="75dp"
-        android:layout_marginBottom="75dp"
+        android:layout_marginTop="92dp"
+        android:layout_marginBottom="92dp"
         android:background="@drawable/border"
         android:gravity="center_horizontal"
         android:padding="15dp"
@@ -20,11 +20,12 @@
 This app will not only solve the problem, but it will also allow you to diversify your every night meal. All you have to do is pick the genre of food that you want to eat, and then you're ready to go!"
         android:textColor="#ffffff"
         android:textSize="24dp"
+        android:lineSpacingExtra="20dp"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.351" />
+        app:layout_constraintVertical_bias="0.41" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
