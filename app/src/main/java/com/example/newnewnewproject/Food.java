@@ -87,8 +87,15 @@ public class Food {
             {"Spring rolls","https://www.tasteofhome.com/recipes/spanakopita-spring-rolls/"},
             {"Tomato tart ","https://www.tasteofhome.com/recipes/terrific-tomato-tart/"},
             {"Balck bean burger ","http:///tastybite.com/recipes/tasty-bengal-black-bean-burger-2"},
-
             {"Stuffed peppers","http://tastybite.com/recipes/tasty-thai-lime-stuffed-peppers-2/"}};}
+
+
+
+
+
+
+
+
 
 
 
