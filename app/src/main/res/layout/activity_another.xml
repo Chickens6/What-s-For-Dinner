@@ -11,12 +11,28 @@
         android:layout_height="match_parent">
 
         <ImageView
+            android:id="@+id/wheel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:src="@drawable/uhhhhhuglywheel"
             android:adjustViewBounds="true"
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"/>
+
+        <Button
+            android:id="@+id/buttonStart"
+            android:layout_width="174dp"
+            android:layout_height="115dp"
+            android:layout_below="@id/wheel"
+            android:layout_marginTop="21dp"
+            android:background="@drawable/okay"></Button>
+
+        <ImageView
+            android:id="@+id/imageCALF"
+            android:layout_width="173dp"
+            android:layout_height="109dp"
+            android:layout_marginBottom="-30dp"
+            android:src="@drawable/calf"/>
 
             <Button android:id="@+id/buttonStart"
                 android:layout_width="wrap_content"
