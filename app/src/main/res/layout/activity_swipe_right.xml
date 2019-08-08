@@ -18,6 +18,7 @@
         android:text="Hello, welcome to the app that will answer the question you always ask yourself. 'What's for Dinner?'
 This app will not only solve the problem, but it will also allow you to diversify your every night meal. All you have to do is pick the genre of food that you want to eat, and then you're ready to go!"
         android:textColor="#ffffff"
+        android:fontFamily="@font/coiny"
         android:background="@drawable/border"
         android:textSize="26dp"
         android:visibility="visible"
