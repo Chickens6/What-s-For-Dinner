@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
         view.setBackgroundResource(R.color.black);
 
         TextView textView = (TextView) findViewById(R.id.textView);
-        String text = "<font color=#ff0000>W</font><font color=#ff8500>H</font><font color=#ffff00>A</font><font color=#00ff00>T</font><font color=#113dff>'</font><font color=#3676e8>S</font> </font><font color=#cd00cd>F</font><font color=#7802ff>O</font><font color=#ff69b4>R</font>" ;
+        String text = "<font color=#a52900>W</font><font color=#008b68>H</font><font color=#ffd53f>A</font><font color=#d3b766>T</font><font color=#a52900>'</font><font color=#008b68>S</font> </font><font color=#ffd53f>F</font><font color=#d3b766>O</font><font color=#a52900>R</font>" ;
         textView.setText(Html.fromHtml(text));
 
 

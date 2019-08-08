@@ -7,8 +7,6 @@
     tools:context=".MainActivity">
 
 
-
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="372dp"
@@ -21,7 +19,7 @@
         android:text="What's For"
         android:textAllCaps="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="#CDDC39"
+        android:textColor="#ffdf3f"
         android:textSize="45dp"
         app:fontFamily="@font/coiny"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -41,7 +39,7 @@
         android:text="Dinner?"
         android:textAllCaps="true"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="#CDDC39"
+        android:textColor="#FAE743"
         android:textSize="45dp"
         app:fontFamily="@font/coiny"
         app:layout_constraintBottom_toBottomOf="parent"
