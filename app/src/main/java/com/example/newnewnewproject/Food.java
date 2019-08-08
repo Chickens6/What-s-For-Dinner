@@ -73,16 +73,7 @@ public class Food {
             {"Mandarin orange ","https://veganuary.com/recipes/mandarin-orange-stirfry/"},
             {"Ginger chili ","https://veganuary.com/recipes/ginger-chilli-tofu-steaks/"},
             {"Tofu and brown rice ","https://www.veganricha.com/2017/01/tofu-brown-rice-noodles-hoisin-sauce.html"}};
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
-
-
-=======
-=======
->>>>>>> 4fb7bab3cdf4c7b9780ad0e99d24f6e3886bf8b5
 
 
     public static String[][] GREEK = {{"Anticuchos de pollo","https://www.commonbytes.org/?gclid=CjwKCAjw-ITqBRB7EiwAZ1c5U-EMxkX3QLdjboO--xqX2I9BJo4t9VfmLwkONFrXApUZLyFcstBOChoCmH4QAvD_BwE#!/recipes/65"},
@@ -96,29 +87,4 @@ public class Food {
             {"Spring rolls","https://www.tasteofhome.com/recipes/spanakopita-spring-rolls/"},
             {"Tomato tart ","https://www.tasteofhome.com/recipes/terrific-tomato-tart/"},
             {"Balck bean burger ","http:///tastybite.com/recipes/tasty-bengal-black-bean-burger-2"},
-            {"Stuffed peppers","http://tastybite.com/recipes/tasty-thai-lime-stuffed-peppers-2/"}};
->>>>>>> 1a84255599be78e6179ce6685eaa19c3b13f8d0c
-
-
-
-    }
-
-
-<<<<<<< HEAD
-=======
-
-
-
-<<<<<<< HEAD
-
-
-
-
-
->>>>>>> ea7225694dfd0d13810f361217c133ea5d6ed875
-
-    } 
-
->>>>>>> 1a84255599be78e6179ce6685eaa19c3b13f8d0c
-=======
->>>>>>> 4fb7bab3cdf4c7b9780ad0e99d24f6e3886bf8b5
+            {"Stuffed peppers","http://tastybite.com/recipes/tasty-thai-lime-stuffed-peppers-2/"}};}
