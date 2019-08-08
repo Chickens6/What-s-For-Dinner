@@ -20,7 +20,7 @@ This app will not only solve the problem, but it will also allow you to diversif
         android:textColor="#ffffff"
         android:fontFamily="@font/coiny"
         android:background="@drawable/border"
-        android:textSize="26dp"
+        android:textSize="24dp"
         android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
