@@ -45,13 +45,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.471" />
+        app:layout_constraintVertical_bias="0.499" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="196dp"
         android:layout_height="181dp"
-        android:layout_marginTop="256dp"
+        android:layout_marginTop="272dp"
         android:background="#075eff"
         android:text="FRENCH"
         android:textSize="25sp"
@@ -61,8 +61,8 @@
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="212dp"
-        android:layout_height="201dp"
+        android:layout_width="219dp"
+        android:layout_height="177dp"
         android:layout_marginRight="204dp"
         android:layout_marginBottom="36dp"
         android:background="#FF7B07"
@@ -74,7 +74,7 @@
     <Button
         android:id="@+id/button6"
         android:layout_width="195dp"
-        android:layout_height="199dp"
+        android:layout_height="179dp"
         android:layout_marginBottom="36dp"
         android:background="#9807ff"
         android:text="GREEK"
