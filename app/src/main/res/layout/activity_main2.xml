@@ -9,20 +9,22 @@
     <Button
         android:id="@+id/button1"
         android:layout_width="201dp"
-        android:layout_height="221dp"
+        android:layout_height="181dp"
+        android:layout_marginTop="44dp"
         android:background="#ff0000"
         android:text="AMERICAN"
         android:textSize="25sp"
         app:layout_constraintEnd_toStartOf="@+id/button2"
-        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_bias="0.142"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="205dp"
-        android:layout_height="202dp"
+        android:layout_width="196dp"
+        android:layout_height="173dp"
+        android:layout_marginTop="48dp"
         android:background="#07ff18"
         android:text="MEXICAN"
         android:textSize="25sp"
@@ -32,10 +34,10 @@
 
     <Button
         android:id="@+id/button3"
-        android:layout_width="194dp"
-        android:layout_height="246dp"
-        android:layout_marginEnd="212dp"
-        android:layout_marginRight="212dp"
+        android:layout_width="202dp"
+        android:layout_height="180dp"
+        android:layout_marginEnd="208dp"
+        android:layout_marginRight="208dp"
         android:background="#ffff07"
         android:text="ITALIAN"
         android:textSize="25sp"
@@ -43,13 +45,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.455" />
+        app:layout_constraintVertical_bias="0.471" />
 
     <Button
         android:id="@+id/button4"
-        android:layout_width="195dp"
-        android:layout_height="234dp"
-        android:layout_marginTop="248dp"
+        android:layout_width="196dp"
+        android:layout_height="181dp"
+        android:layout_marginTop="260dp"
         android:background="#075eff"
         android:text="FRENCH"
         android:textSize="25sp"
@@ -59,9 +61,10 @@
 
     <Button
         android:id="@+id/button5"
-        android:layout_width="204dp"
-        android:layout_height="245dp"
-        android:layout_marginRight="204dp"
+        android:layout_width="212dp"
+        android:layout_height="201dp"
+        android:layout_marginRight="208dp"
+        android:layout_marginBottom="56dp"
         android:background="#FF7B07"
         android:text="CHINESE"
         android:textSize="25sp"
@@ -70,8 +73,9 @@
 
     <Button
         android:id="@+id/button6"
-        android:layout_width="189dp"
-        android:layout_height="246dp"
+        android:layout_width="195dp"
+        android:layout_height="199dp"
+        android:layout_marginBottom="56dp"
         android:background="#9807ff"
         android:text="GREEK"
         android:textSize="25sp"
