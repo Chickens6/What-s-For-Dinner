@@ -34,8 +34,8 @@
         android:id="@+id/button3"
         android:layout_width="194dp"
         android:layout_height="246dp"
-        android:layout_marginEnd="216dp"
-        android:layout_marginRight="216dp"
+        android:layout_marginEnd="212dp"
+        android:layout_marginRight="212dp"
         android:background="#ffff07"
         android:text="ITALIAN"
         android:textSize="25sp"
@@ -43,7 +43,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.492" />
+        app:layout_constraintVertical_bias="0.455" />
 
     <Button
         android:id="@+id/button4"
