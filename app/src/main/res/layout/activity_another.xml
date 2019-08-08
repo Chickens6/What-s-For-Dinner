@@ -28,22 +28,15 @@
             android:layout_marginTop="21dp"
             android:background="@drawable/okay"></Button>
 
+
         <ImageView
             android:id="@+id/imageCALF"
             android:layout_width="173dp"
             android:layout_height="109dp"
             android:layout_marginBottom="-30dp"
-            android:src="@drawable/calf"/>
-
-
-
-            <Button android:id="@+id/buttonStart2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_alignParentBottom="true"
-                android:layout_centerHorizontal="true"
-                android:background="@drawable/okay"/>
-
+            android:src="@drawable/calf2"
+            android:layout_above="@id/wheel"
+            android:layout_centerHorizontal="true"/>
 
 
 
