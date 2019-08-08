@@ -39,7 +39,7 @@
             <Button android:id="@+id/buttonStart"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_allingParentBottom="true"
+                android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true"
                 android:background="@drawable/okay"/>
 >>>>>>> 1a84255599be78e6179ce6685eaa19c3b13f8d0c
