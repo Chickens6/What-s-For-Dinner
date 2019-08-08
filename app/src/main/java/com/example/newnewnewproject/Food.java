@@ -87,15 +87,7 @@ public class Food {
             {"Spring rolls","https://www.tasteofhome.com/recipes/spanakopita-spring-rolls/"},
             {"Tomato tart ","https://www.tasteofhome.com/recipes/terrific-tomato-tart/"},
             {"Balck bean burger ","http:///tastybite.com/recipes/tasty-bengal-black-bean-burger-2"},
-<<<<<<< HEAD
             {"Stuffed peppers","http://tastybite.com/recipes/tasty-thai-lime-stuffed-peppers-2/"}};}
-=======
-            {"Stuffed peppers","http://tastybite.com/recipes/tasty-thai-lime-stuffed-peppers-2/"}};
-
-
-
-
-    }
 
 
 
@@ -106,4 +98,9 @@ public class Food {
 
 
 
->>>>>>> ce8b149417be691a0e21c8101c8769251e0d9a7e
+
+
+
+
+
+
