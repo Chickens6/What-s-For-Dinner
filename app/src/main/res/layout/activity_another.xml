@@ -19,17 +19,6 @@
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"/>
 
-<<<<<<< HEAD
-=======
-        <Button
-            android:id="@+id/buttonStart"
-            android:layout_width="174dp"
-            android:layout_height="115dp"
-            android:layout_below="@id/wheel"
-            android:layout_marginTop="21dp"
-            android:background="@drawable/okay"></Button>
-
->>>>>>> ce8b149417be691a0e21c8101c8769251e0d9a7e
         <ImageView
             android:id="@+id/imageCALF"
             android:layout_width="173dp"
@@ -39,11 +28,7 @@
             android:layout_above="@id/wheel"
             android:layout_centerHorizontal="true"/>
 
-<<<<<<< HEAD
-            <Button android:id="@+id/buttonStartone"
-=======
             <Button android:id="@+id/buttonStart"
->>>>>>> ce8b149417be691a0e21c8101c8769251e0d9a7e
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentBottom="true"
