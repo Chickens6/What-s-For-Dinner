@@ -12,11 +12,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="92dp"
+        android:layout_marginBottom="92dp"
         android:gravity="center_horizontal"
         android:text="Hello, welcome to the app that will answer the question you always ask yourself. 'What's for Dinner?'
 This app will not only solve the problem, but it will also allow you to diversify your every night meal. All you have to do is pick the genre of food that you want to eat, and then you're ready to go!"
-        android:textColor="#FFC107"
+        android:textColor="#ffffff"
         android:textSize="26dp"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
