@@ -12,7 +12,7 @@ public class Food {
             {"Vegan Chicken Nuggets", "https://veganuary.com/recipes/vegan-chicken-nuggets/"},
             {"Chickpea Flour Omelette", "https://www.veganricha.com/2012/08/chickpea-flour-omelette-with-spinach.html"},
             {"Veggie Dogs", "https://blog.fatfreevegan.com/2014/07/homemade-veggie-dogs.html"},
-            {"Vegan Street TAcos", "https://www.theveganroad.com/recipes/vegan-street-tacos/"},
+            {"Vegan Street Tacos", "https://www.theveganroad.com/recipes/vegan-street-tacos/"},
             {"Vegan Lasagna", "https://ohsheglows.com/2011/11/07/vegan-lasagna-with-basil-cashew-cheeze/"},
             {"Classic Baked Macaroni", "https://www.yummly.com/recipe/Classic-Baked-Macaroni-and-Cheese-1191584"},
             {"Pasta Carbonara", "https://www.rickiheller.com/2010/05/new-age-vegan-pasta-carbonara/"},
