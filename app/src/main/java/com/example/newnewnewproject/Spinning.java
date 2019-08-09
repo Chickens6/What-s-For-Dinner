@@ -1,3 +1,4 @@
+
 //Code based on: https://www.youtube.com/watch?v=pqM5Usm8djI
 //Images for wheel obtained and modified from: https://github.com/CrowniAPIs/libGDX-SpinWheel/blob/master/android/assets/spin_wheel_ui.png
 
@@ -32,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements Animation.Animati
         setContentView(R.layout.activity_main);
 
         wheel = findViewById(R.id.wheel);
-        selected = findViewById(R.id.selectedChoice);
+        selected = findViewById(R.id.selected);
 
         sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
         number = sharedPreferences.getInt("Int_Number",12);
