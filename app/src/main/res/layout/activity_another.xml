@@ -26,10 +26,6 @@
             android:layout_below="@id/wheel"
             android:layout_marginTop="21dp"
             android:background="@drawable/okay"/>
-<<<<<<< HEAD
-
-=======
->>>>>>> 32a5a7b020a8af3ef0d5112e7c779e23972a8f8c
 
         <ImageView
             android:id="@+id/imageCALF"
