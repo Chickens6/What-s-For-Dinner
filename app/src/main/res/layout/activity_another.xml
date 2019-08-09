@@ -19,19 +19,6 @@
             android:layout_centerHorizontal="true"
             android:layout_centerVertical="true"/>
 
-
-<<<<<<< HEAD
-=======
-        <Button
-            android:id="@+id/buttonStart"
-            android:layout_width="174dp"
-            android:layout_height="115dp"
-            android:layout_below="@id/wheel"
-            android:layout_marginTop="21dp"
-            android:background="@drawable/okay"/>
-
->>>>>>> 310d20701d2bd7980520f6bc27d5f327739ec22d
-
         <ImageView
             android:id="@+id/imageCALF"
             android:layout_width="173dp"
